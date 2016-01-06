@@ -1,6 +1,6 @@
 {
   "name": "be-sert",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A super lightweight assertion library",
   "main": "be.js",
   "scripts": {
