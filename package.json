@@ -1,13 +1,13 @@
 {
   "name": "be-sert",
   "version": "1.0.0",
-  "description": "A super lightweight asertion library",
+  "description": "A super lightweight assertion library",
   "main": "be.js",
   "scripts": {
     "test": "test.js"
   },
   "keywords": [
-    "assert"
+    "assertion"
   ],
   "author": "Jan Badenhorst <janhendrik.badenhorst@gmail.com>",
   "license": "ISC",
@@ -16,5 +16,9 @@
   },
   "devDependencies": {
     "mocha": "*"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/gumm/be-sert"
   }
 }
