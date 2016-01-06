@@ -1,0 +1,20 @@
+{
+  "name": "be-sert",
+  "version": "1.0.0",
+  "description": "A super lightweight asertion library",
+  "main": "be.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "assert"
+  ],
+  "author": "Jan Badenhorst <janhendrik.badenhorst@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "simple-typechecks": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
