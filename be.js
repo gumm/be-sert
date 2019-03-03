@@ -46,7 +46,7 @@ be.roughlyEqual = function(a, b, c, opt_d) {
   var var2 = hasMsg ? c : b;
   var tolerance = hasMsg ? opt_d : c;
   var comment = hasMsg ? a :
-    util.format('%d is more than %d from $d', var1, var2, tolerance);
+    util.format('%d is more than %d from %d', var1, tolerance, var2);
   assert.ok(Math.abs(var1 - var2) <= tolerance, comment);
 };
 

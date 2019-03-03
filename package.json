@@ -1,6 +1,6 @@
 {
   "name": "be-sert",
-  "version": "1.1.0",
+  "version": "1.1.5",
   "description": "A super lightweight assertion library",
   "main": "be.js",
   "scripts": {
@@ -17,8 +17,8 @@
   "devDependencies": {
     "mocha": "*"
   },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/gumm/be-sert"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gumm/be-sert"
   }
 }
